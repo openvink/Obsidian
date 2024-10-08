@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-08.md",
+                "file": "journal/notes/2024/10 October/08 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-08.md",
+                "file": "journal/notes/2024/10 October/08 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-08.md",
+                "file": "journal/notes/2024/10 October/08 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-08.md"
+                "file": "journal/notes/2024/10 October/08 Tuesday.md"
               }
             }
           }
@@ -157,6 +157,11 @@
   "active": "ab71cecb08777d79",
   "lastOpenFiles": [
     "2024-10-08.md",
+    "journal/notes/2024/10 October/08 Tuesday.md",
+    "journal/notes/2024/10 October",
+    "journal/notes/2024",
+    "journal/notes",
+    "journal",
     "Untitled.md"
   ]
 }
